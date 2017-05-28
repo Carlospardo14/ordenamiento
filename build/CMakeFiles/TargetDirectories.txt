@@ -1,0 +1,3 @@
+/home/carlos/Ordenamiento/build/CMakeFiles/edit_cache.dir
+/home/carlos/Ordenamiento/build/CMakeFiles/rebuild_cache.dir
+/home/carlos/Ordenamiento/build/CMakeFiles/ordenamiento.dir

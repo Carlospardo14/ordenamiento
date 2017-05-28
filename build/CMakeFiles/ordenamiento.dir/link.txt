@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ordenamiento.dir/src/ordenamiento.cpp.o CMakeFiles/ordenamiento.dir/src/main.cpp.o  -o ordenamiento -rdynamic 
